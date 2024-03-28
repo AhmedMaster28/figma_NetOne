@@ -1,3 +1,63 @@
-.navbar{
+.navbar {
     width: 100% !important;
+    /* background-color: rgb(249, 249, 249) !important; */
+}
+
+.headerBtn {
+    width: 200px;
+}
+
+.aboutImage {
+    margin-top: 44px;
+    width: 100%;
+}
+
+.aboutFirstH {
+    font-weight: 700;
+
+}
+
+.aboutGetS {
+    width: 80%;
+    height: 50px;
+    font-weight: 600;
+    box-shadow: rgba(56, 56, 255, 0.763) 0px 7px 29px 0px;
+    border-radius: 10px;
+}
+
+.SignUP {
+    border: 2px solid rgb(0, 123, 255);
+    border-radius: 30px;
+    color: rgb(0, 123, 255);
+
+}
+
+.about {
+    margin-bottom: 4rem;
+}
+
+.ratio {
+    width: 80%;
+    height: auto;
+    display: block;
+    margin: auto;
+
+}
+
+.ratioMain {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    height: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.users {
+    gap: 44px;
+}
+
+.personIcon {
+    background-color: rgb(226 226 255);
+    border-radius: 3rem;
+    padding: 7px 0;
 }

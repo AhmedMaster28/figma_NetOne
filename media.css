@@ -1,0 +1,10 @@
+@media only screen and (min-width: 320px) and (max-width: 768px) {
+    .ratioMain {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 34px;
+        padding: 20px 0;
+    }
+}
